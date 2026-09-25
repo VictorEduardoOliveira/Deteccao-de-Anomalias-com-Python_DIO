@@ -36,7 +36,7 @@ XGBoost é o melhor modelo do notebook em todas as métricas de fraude. Baixar o
 
 ```bash
 pip install pandas numpy scikit-learn imbalanced-learn xgboost shap matplotlib
-jupyter notebook anomaly.ipynb
+jupyter notebook 'Anomaly_Trouble-DIO.ipynb'
 ```
 
 O dataset é baixado diretamente da URL na primeira célula — não é necessário baixar manualmente.
